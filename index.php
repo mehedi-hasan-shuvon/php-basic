@@ -17,6 +17,7 @@
         <li><a  href="forLoop.php">For Loop</a></li>
         <li><a  href="whileLoop.php">While Loop</a></li>
         <li><a  href="array.php">Array</a></li>
+        <li><a  href="stringManipulation.php">String Manipulation</a></li>
 
     </ul>
 
