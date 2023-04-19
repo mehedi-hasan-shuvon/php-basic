@@ -18,6 +18,9 @@
         <li><a  href="whileLoop.php">While Loop</a></li>
         <li><a  href="array.php">Array</a></li>
         <li><a  href="stringManipulation.php">String Manipulation</a></li>
+        <li><a  href="dateAndTime.php">Date and Time Manipulation</a></li>
+        <li><a  href="functions.php">Functions</a></li>
+
 
     </ul>
 
