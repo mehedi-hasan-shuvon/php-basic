@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP  Primer -date and time manipulation</title>
-</head>
-<body>
+<?php 
+    $title= 'date and time';
+    include 'includes/header.php';
+    ?>
     <h2>testing date and time  manipulation</h2>
 
 
@@ -25,5 +20,5 @@
     
      ?>
     
-</body>
-</html>
+
+    <?php require "includes/footer.php" ?>
